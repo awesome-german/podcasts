@@ -459,9 +459,17 @@ Podcasts are organized by difficulty level and topic to help you find content th
 - **Episode Length**: 60-90 minutes
 - **Special Features**: Celebrity perspectives, Berlin culture
 
-**- [Fest & Flauschig](https://open.spotify.com/show/1OLcQdw2PFDPG1jo3s0wbp)** (listed in Society and Culture)
+**- [Fest & Flauschig](https://open.spotify.com/show/1OLcQdw2PFDPG1jo3s0wbp)**
+- **Level**: Intermediate to Advanced (B2-C2)
+- **Description**: Extremely popular comedy podcast hosted by Jan Böhmermann and Olli Schulz discussing pop culture, politics, and everyday absurdities with humor and wit. Features lots of contemporary slang and cultural references. See full description in Society and Culture section.
+- **Frequency**: Weekly
+- **Episode Length**: 90-120 minutes
 
-**- [Gemischtes Hack](https://open.spotify.com/show/5waBKLdt4wSGWdLGBrXmuy)** (listed in Society and Culture)
+**- [Gemischtes Hack](https://open.spotify.com/show/5waBKLdt4wSGWdLGBrXmuy)**
+- **Level**: Intermediate to Advanced (B2-C2)
+- **Description**: Hosted by comedians Felix Lobrecht and Tommi Schmitt, this wildly popular podcast features humorous conversations about life, relationships, and random topics. Great for learning conversational German and humor. See full description in Society and Culture section.
+- **Frequency**: Weekly
+- **Episode Length**: 60-90 minutes
 
 **- [Kurt Krömer - Feelings](https://www.ardaudiothek.de/sendung/feelings-kurt-kroemer-rummelt/94633770/)**
 - **Level**: Intermediate to Advanced (B2-C1)
@@ -604,9 +612,17 @@ Podcasts are organized by difficulty level and topic to help you find content th
 
 ### Technology and Digital Culture
 
-**- [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/)** (listed in Science and Technology)
+**- [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/)**
+- **Level**: Advanced (C1-C2)
+- **Description**: Weekly podcast about internet policy, digital rights, and technology politics. Hosted by Tim Pritlove and Linus Neumann. See full description in Science and Technology section.
+- **Frequency**: Weekly
+- **Episode Length**: 90-120 minutes
 
-**- [Chaosradio](https://chaosradio.de/)** (listed in Science and Technology)
+**- [Chaosradio](https://chaosradio.de/)**
+- **Level**: Advanced (C1-C2)
+- **Description**: Technology and digital culture podcast from the Chaos Computer Club. Discusses hacking, privacy, internet politics, and digital society. See full description in Science and Technology section.
+- **Frequency**: Monthly
+- **Episode Length**: 120-150 minutes
 
 **- [CRE: Technik, Kultur, Gesellschaft](https://cre.fm/)**
 - **Level**: Advanced (C1-C2)
