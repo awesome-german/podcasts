@@ -4,6 +4,14 @@
 
 Learning German through podcasts is one of the most effective and enjoyable ways to improve your language skills. This comprehensive guide features podcasts for all levels, from absolute beginners to advanced learners, covering topics from daily news and politics to history, culture, science, and entertainment.
 
+<!-- BEGIN gh-mutual-linking -->
+
+### Related projects
+
+- [**multi-timer-audio-recorder**](https://github.com/didvc/multi-timer-audio-recorder) — Unified controls for stopwatch, timer, and audio recording. Perfect for interviews, workouts, cooking, and productivity sessions.
+- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
+<!-- END gh-mutual-linking -->
+
 ## Contents
 
 - [Getting Started](#getting-started)
